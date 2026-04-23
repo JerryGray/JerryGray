@@ -29,6 +29,20 @@ A focused analytics dashboard identifying where yield is lost and where improvem
 
 ---
 
+### Vinyl Muse (Flask Web Application)
+A full-stack web application for managing and exploring a personal record collection, designed to reduce decision fatigue and encourage discovery.
+
+- Dynamic filtering, search, and sorting across multiple attributes  
+- Random record selection and playlist generation  
+- Event-based play tracking with lightweight analytics  
+- Responsive design with desktop and mobile experiences  
+
+👉 [View Project](https://github.com/JerryGray/vinyl-muse)
+#### or
+👉 [Try the Demo](https://jmgray.pythonanywhere.com/register)
+
+---
+
 ## Tools & Technologies
 
 - Power BI (DAX, data modeling, visualization)
@@ -43,8 +57,8 @@ A focused analytics dashboard identifying where yield is lost and where improvem
 
 Additional analytics and development projects in progress, including:
 
-- Vinyl Muse analytics (music listening insights and patterns)
-- Data-driven applications with interactive UI components
+- Expanded analytics features for Vinyl Muse (listening trends, deeper insights)
+- Additional data-driven dashboards and interactive tools
 
 ---
 
