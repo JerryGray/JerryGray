@@ -46,9 +46,10 @@ A full-stack web application for managing and exploring a personal record collec
 ## Tools & Technologies
 
 - Power BI (DAX, data modeling, visualization)
-- Python (pandas, data processing, application logic)
+- Python (pandas, Flask, application logic)
 - SQL (data querying and joins)
-- HTML/CSS (UI structure and styling)
+- HTML/CSS/JavaScript (UI structure and interactivity)
+- SQLite + SQLAlchemy
 - GitHub (version control and project presentation)
 
 ---
