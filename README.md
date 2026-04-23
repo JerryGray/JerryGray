@@ -1,4 +1,5 @@
 # Hi, I'm Jerry Gray
+Data Analyst | Dashboard Developer | UX-Focused Builder
 
 I build data-driven dashboards and tools that help identify problems, explain why they’re happening, and show where to focus improvements.
 
