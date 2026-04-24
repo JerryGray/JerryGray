@@ -26,6 +26,8 @@ A focused analytics dashboard identifying where yield is lost and where improvem
 - Highlights the concentration of failures in specific production stages  
 - Translates data into clear, actionable recommendations  
 
+<img src="https://raw.githubusercontent.com/JerryGray/guitar-fpy-analysis/main/screenshots/default_view.png" width="30%">
+
 👉 [View Project](https://github.com/JerryGray/guitar-fpy-analysis)
 
 ---
@@ -38,9 +40,14 @@ A full-stack web application for managing and exploring a personal record collec
 - Event-based play tracking with lightweight analytics  
 - Responsive design with desktop and mobile experiences  
 
-👉 [View Project](https://github.com/JerryGray/vinyl-muse)
-#### or
-👉 [Try the Demo](https://jmgray.pythonanywhere.com/register)
+#### Desktop/Landscape view
+<img src="https://raw.githubusercontent.com/JerryGray/vinyl-muse/main/screenshots/default_desktop.png" width="35%">
+
+#### Mobile view
+<img src="https://raw.githubusercontent.com/JerryGray/vinyl-muse/main/screenshots/mobile_experience.png" width="35%">
+
+👉 [View Project](https://github.com/JerryGray/vinyl-muse) &nbsp;&nbsp; or &nbsp;&nbsp; 👉 [Try the Demo](https://jmgray.pythonanywhere.com/register)
+
 
 ---
 
