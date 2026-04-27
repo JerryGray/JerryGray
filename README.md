@@ -26,7 +26,7 @@ A focused analytics dashboard identifying where yield is lost and where improvem
 - Highlights the concentration of failures in specific production stages  
 - Translates data into clear, actionable recommendations  
 
-<img src="https://raw.githubusercontent.com/JerryGray/guitar-fpy-analysis/main/screenshots/default_view.png" width="30%">
+<img src="https://raw.githubusercontent.com/JerryGray/guitar-fpy-analysis/main/screenshots/default_view.png" width="35%">
 
 👉 [View Project](https://github.com/JerryGray/guitar-fpy-analysis)
 
