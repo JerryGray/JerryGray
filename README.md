@@ -32,6 +32,25 @@ A focused analytics dashboard identifying where yield is lost and where improvem
 
 ---
 
+### Contact Center Performance Dashboard (Power BI)
+A real-time intraday operations dashboard giving a contact center manager a 
+complete picture of service level health across three channels — with early 
+warning signals before SLA breaches occur.
+
+- Multi-channel KPI monitoring (inbound calls, live chat, email/tickets)
+- Current interval SL% with next-interval projections per channel
+- Today's volume vs. historical same-day baseline with forecast
+- Per-agent performance table with status and adherence tracking
+- 40+ DAX measures including RAG status, baseline comparison, and SL% forecasting
+- Synthetic dataset of 67,000+ rows generated in Python with realistic 
+  statistical distributions
+
+<img src="https://raw.githubusercontent.com/JerryGray/contact_center_performance/main/screenshots/ccp_full_dashboard.png" width="35%">
+
+👉 [View Project](https://github.com/JerryGray/contact_center_performance)
+
+---
+
 ### Vinyl Muse (Flask Web Application)
 A full-stack web application for managing and exploring a personal record collection, designed to reduce decision fatigue and encourage discovery.
 
