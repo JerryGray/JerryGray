@@ -19,19 +19,6 @@ My work touches on **data analytics, software development, and user experience**
 
 ## Featured Projects
 
-### Manufacturing FPY Dashboard (Power BI)
-A focused analytics dashboard identifying where yield is lost and where improvements will have the greatest impact.
-
-- Analyzes First Pass Yield (FPY), defects, and root causes  
-- Highlights the concentration of failures in specific production stages  
-- Translates data into clear, actionable recommendations  
-
-<img src="https://raw.githubusercontent.com/JerryGray/guitar-fpy-analysis/main/screenshots/default_view.png" width="35%">
-
-👉 [View Project](https://github.com/JerryGray/guitar-fpy-analysis)
-
----
-
 ### Contact Center Performance Dashboard (Power BI)
 A real-time intraday operations dashboard giving a contact center manager a 
 complete picture of service level health across three channels — with early 
@@ -48,6 +35,19 @@ warning signals before SLA breaches occur.
 <img src="https://raw.githubusercontent.com/JerryGray/contact_center_performance/main/screenshots/ccp_full_dashboard.png" width="35%">
 
 👉 [View Project](https://github.com/JerryGray/contact_center_performance)
+
+---
+
+### Manufacturing FPY Dashboard (Power BI)
+A focused analytics dashboard identifying where yield is lost and where improvements will have the greatest impact.
+
+- Analyzes First Pass Yield (FPY), defects, and root causes  
+- Highlights the concentration of failures in specific production stages  
+- Translates data into clear, actionable recommendations  
+
+<img src="https://raw.githubusercontent.com/JerryGray/guitar-fpy-analysis/main/screenshots/default_view.png" width="35%">
+
+👉 [View Project](https://github.com/JerryGray/guitar-fpy-analysis)
 
 ---
 
