@@ -32,7 +32,7 @@ warning signals before SLA breaches occur.
 - Synthetic dataset of 67,000+ rows generated in Python with realistic 
   statistical distributions
 
-<img src="https://raw.githubusercontent.com/JerryGray/contact_center_performance/main/screenshots/ccp_full_dashboard.png" width="35%">
+[<img src="https://raw.githubusercontent.com/JerryGray/contact_center_performance/main/screenshots/ccp_full_dashboard.png" width="70%">](https://github.com/JerryGray/contact_center_performance)
 
 👉 [View Project](https://github.com/JerryGray/contact_center_performance)
 
@@ -45,7 +45,7 @@ A focused analytics dashboard identifying where yield is lost and where improvem
 - Highlights the concentration of failures in specific production stages  
 - Translates data into clear, actionable recommendations  
 
-<img src="https://raw.githubusercontent.com/JerryGray/guitar-fpy-analysis/main/screenshots/default_view.png" width="35%">
+[<img src="https://raw.githubusercontent.com/JerryGray/guitar-fpy-analysis/main/screenshots/default_view.png" width="70%">](https://github.com/JerryGray/guitar-fpy-analysis)
 
 👉 [View Project](https://github.com/JerryGray/guitar-fpy-analysis)
 
@@ -60,12 +60,12 @@ A full-stack web application for managing and exploring a personal record collec
 - Responsive design with desktop and mobile experiences  
 
 #### Desktop/Landscape view
-<img src="https://raw.githubusercontent.com/JerryGray/vinyl-muse/main/screenshots/default_desktop.png" width="35%">
+[<img src="https://raw.githubusercontent.com/JerryGray/vinyl-muse/main/screenshots/default_desktop.png" width="70%">](https://github.com/JerryGray/vinyl-muse)
 
 #### Mobile view
-<img src="https://raw.githubusercontent.com/JerryGray/vinyl-muse/main/screenshots/mobile_experience.png" width="35%">
+[<img src="https://raw.githubusercontent.com/JerryGray/vinyl-muse/main/screenshots/mobile_experience.png" width="70%">](https://github.com/JerryGray/vinyl-muse)
 
-👉 [View Project](https://github.com/JerryGray/vinyl-muse) &nbsp;&nbsp; or &nbsp;&nbsp; 👉 [Try the Demo](https://jmgray.pythonanywhere.com/register)
+👉 [View Project](https://github.com/JerryGray/vinyl-muse) &nbsp;&nbsp; or &nbsp;&nbsp; 👉 [Try the Demo](https://jmgray.pythonanywhere.com/register) (no login required)
 
 
 ---
