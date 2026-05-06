@@ -43,7 +43,8 @@ A focused analytics dashboard identifying where yield is lost and where improvem
 
 - Analyzes First Pass Yield (FPY), defects, and root causes  
 - Highlights the concentration of failures in specific production stages  
-- Translates data into clear, actionable recommendations  
+- Translates data into clear, actionable recommendations
+- Accompanied by a set of paginated reports built in Power BI Report Builder (.rdl), covering production logs, parameterized inspection detail, and grouped FPY summaries with subtotals.
 
 [<img src="https://raw.githubusercontent.com/JerryGray/guitar-fpy-analysis/main/screenshots/default_view.png" width="70%">](https://github.com/JerryGray/guitar-fpy-analysis)
 
@@ -74,7 +75,8 @@ A full-stack web application for managing and exploring a personal record collec
 
 - Power BI (DAX, data modeling, visualization)
 - Python (pandas, Flask, application logic)
-- SQL (data querying and joins)
+- SQL (SQL Server, MySQL - querying, joins, CTEs, aggregation)
+- Power BI Report Builder (paginated reports, .rdl format, parameters, grouping, SSRS-compatible)
 - HTML/CSS/JavaScript (UI structure and interactivity)
 - SQLite + SQLAlchemy
 - GitHub (version control and project presentation)
