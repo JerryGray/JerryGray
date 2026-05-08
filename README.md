@@ -95,4 +95,3 @@ Additional analytics and development projects in progress, including:
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/jerrygray-data-vis
-- GitHub: https://github.com/JerryGray
