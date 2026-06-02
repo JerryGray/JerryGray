@@ -68,13 +68,32 @@ A full-stack web application for managing and exploring a personal record collec
 
 👉 [View Project](https://github.com/JerryGray/vinyl-muse) &nbsp;&nbsp; or &nbsp;&nbsp; 👉 [Try the Demo](https://jmgray.pythonanywhere.com/register) (no login required)
 
+---
+
+### Duty Rotation Scheduler (Python / CustomTkinter)
+
+A desktop application that automates monthly duty rotation scheduling for multi-shift teams - replacing a tedious manual process with an algorithm that handles real-world constraints automatically.
+
+- Distributes duty assignments across staff using a load-balancing rotation
+- Configurable break-day quotas per shift group, spaced through the month
+- Respects planned PTO and adjusts to the addition of unplanned absences
+- Mid-month regeneration preserves past days and prorates quotas for new staff
+- Manual day editor for overrides, with break-limit enforcement and warnings
+- Schedule locking, PNG export, and automatic archiving of past months
+- Audit log tracking all staff and schedule changes per workspace
+- Multiple independent workspaces supported from a single installation
+
+#### Calendar view
+[<img src="https://raw.githubusercontent.com/JerryGray/duty-rotation-scheduler/main/screenshots/calendar_view.png" width="70%">](https://github.com/JerryGray/duty-rotation-scheduler)
+
+👉 [View Project](https://github.com/JerryGray/duty-rotation-scheduler)
 
 ---
 
 ## Tools & Technologies
 
 - Power BI (DAX, data modeling, visualization)
-- Python (pandas, Flask, application logic)
+- Python (pandas, Flask, CustomTkinter, application logic)
 - SQL (SQL Server, MySQL - querying, joins, CTEs, aggregation)
 - Power BI Report Builder (paginated reports, .rdl format, parameters, grouping, SSRS-compatible)
 - HTML/CSS/JavaScript (UI structure and interactivity)
