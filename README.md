@@ -83,8 +83,11 @@ A desktop application that automates monthly duty rotation scheduling for multi-
 - Audit log tracking all staff and schedule changes per workspace
 - Multiple independent workspaces supported from a single installation
 
-#### Calendar view
+#### Calendar view (Desktop only)
 [<img src="https://raw.githubusercontent.com/JerryGray/duty-rotation-scheduler/main/screenshots/calendar_view.png" width="70%">](https://github.com/JerryGray/duty-rotation-scheduler)
+
+#### Calendar view (Web app - in-progress)
+[<img src="https://raw.githubusercontent.com/JerryGray/duty-rotation-scheduler/main/screenshots/calendar_view_web.png" width="70%">](https://github.com/JerryGray/duty-rotation-scheduler)
 
 👉 [View Project](https://github.com/JerryGray/duty-rotation-scheduler)
 
