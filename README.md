@@ -70,23 +70,24 @@ A full-stack web application for managing and exploring a personal record collec
 
 ---
 
-### Duty Rotation Scheduler (Python / CustomTkinter)
+### Duty Rotation Scheduler (Python / FastAPI / Supabase)
 
-A desktop application that automates monthly duty rotation scheduling for multi-shift teams - replacing a tedious manual process with an algorithm that handles real-world constraints automatically.
+A full-stack web application that automates monthly duty rotation scheduling for multi-shift teams — rebuilt from a working desktop tool into a deployed, multi-tenant web app.
 
-- Distributes duty assignments across staff using a load-balancing rotation
-- Configurable break-day quotas per shift group, spaced through the month
-- Respects planned PTO and adjusts to the addition of unplanned absences
-- Mid-month regeneration preserves past days and prorates quotas for new staff
-- Manual day editor for overrides, with break-limit enforcement and warnings
-- Schedule locking, PNG export, and automatic archiving of past months
+- Multi-tenant architecture with org and workspace isolation, Supabase row-level security, 
+  and role-based access control (admin / editor / viewer) with granular per-permission toggles
+- Scheduling algorithm distributes duty assignments using load-balancing rotation with 
+  configurable break-day quotas, consecutive-day avoidance, and post-processing fairness passes
+- Respects planned PTO and unplanned absences; mid-month regeneration preserves past days 
+  and prorates quotas for new staff
+- Manual day editor with break-limit enforcement, override warnings, and per-day protection
+- Schedule locking and automatic archiving of past months with full archived schedule viewer
 - Audit log tracking all staff and schedule changes per workspace
-- Multiple independent workspaces supported from a single installation
+- Import pipeline migrates all workspaces, staff, duties, and schedules from the desktop 
+  version via ZIP export, with automatic ID remapping and idempotent re-import
+- Deployed on Railway with GitHub-integrated continuous deployment
 
-#### Calendar view (Desktop only)
-[<img src="https://raw.githubusercontent.com/JerryGray/duty-rotation-scheduler/main/screenshots/calendar_view.png" width="70%">](https://github.com/JerryGray/duty-rotation-scheduler)
-
-#### Calendar view (Web app - in-progress)
+#### Calendar view
 [<img src="https://raw.githubusercontent.com/JerryGray/duty-rotation-scheduler/main/screenshots/calendar_view_web.png" width="70%">](https://github.com/JerryGray/duty-rotation-scheduler)
 
 👉 [View Project](https://github.com/JerryGray/duty-rotation-scheduler)
