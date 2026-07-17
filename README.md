@@ -58,7 +58,8 @@ A full-stack web application for managing and exploring a personal record collec
 - Dynamic filtering, search, and sorting across multiple attributes  
 - Random record selection and playlist generation  
 - Event-based play tracking with lightweight analytics  
-- Responsive design with desktop and mobile experiences  
+- Responsive design with desktop and mobile experiences
+- AI-generated blurbs - Google Gemini API integration writes short, genre/era-aware "liner notes" for any record, with a manual override for collectors who'd rather write their own  
 
 #### Desktop/Landscape view
 [<img src="https://raw.githubusercontent.com/JerryGray/vinyl-muse/main/screenshots/default_desktop.png" width="70%">](https://github.com/JerryGray/vinyl-muse)
@@ -103,6 +104,7 @@ A full-stack web application that automates monthly duty rotation scheduling for
 - HTML/CSS/JavaScript (UI structure and interactivity)
 - SQLite + SQLAlchemy
 - GitHub (version control and project presentation)
+- LLM API integration (Google Gemini)
 
 ---
 
