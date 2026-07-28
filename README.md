@@ -34,7 +34,7 @@ warning signals before SLA breaches occur.
 
 [<img src="https://raw.githubusercontent.com/JerryGray/contact_center_performance/main/screenshots/ccp_full_dashboard.png" width="70%">](https://github.com/JerryGray/contact_center_performance)
 
-👉 [View Project](https://github.com/JerryGray/contact_center_performance)
+👉 [View Project Write-up](https://github.com/JerryGray/contact_center_performance)
 
 ---
 
@@ -48,7 +48,7 @@ A focused analytics dashboard identifying where yield is lost and where improvem
 
 [<img src="https://raw.githubusercontent.com/JerryGray/guitar-fpy-analysis/main/screenshots/default_view.png" width="70%">](https://github.com/JerryGray/guitar-fpy-analysis)
 
-👉 [View Project](https://github.com/JerryGray/guitar-fpy-analysis)
+👉 [View Project Write-up](https://github.com/JerryGray/guitar-fpy-analysis)
 
 ---
 
@@ -67,7 +67,22 @@ A full-stack web application for managing and exploring a personal record collec
 #### Mobile view
 [<img src="https://raw.githubusercontent.com/JerryGray/vinyl-muse/main/screenshots/mobile_experience.png" width="70%">](https://github.com/JerryGray/vinyl-muse)
 
-👉 [View Project](https://github.com/JerryGray/vinyl-muse) &nbsp;&nbsp; or &nbsp;&nbsp; 👉 [Try the Demo](https://jmgray.pythonanywhere.com/register) (no login required)
+👉 [View Project Write-up](https://github.com/JerryGray/vinyl-muse) &nbsp;&nbsp; or &nbsp;&nbsp; 👉 [Try the Demo](https://jmgray.pythonanywhere.com/register) (no login required)
+
+---
+
+### Guitar Tone Advisor — LLM Integration (LangChain / Streamlit / Gemini API)
+A rebuild of an earlier rules-based tone-recommendation tool as an LLM-driven app that reasons over real, specific gear instead of generic categories. Built specifically to learn AI tooling and integration. *Code lives in a private repo; this is a full write-up of the build: what was tried, what broke, and why each decision ended up shaped the way it did.*
+
+- Rebuilt a rule-based recommendation engine as an LLM app after the original hit a scaling wall
+- Gear-specific grounding: looks up and caches real specs for a user's actual guitar, amp, and pedals, using web search only when needed
+- Structured LLM output enforced via Pydantic schema, cross-checked against verified gear data before being shown
+- Refinement flow that updates only the settings a follow-up request actually affects
+- Detailed write-up covering design decisions and debugging lessons specific to building with an LLM
+
+[<img src="https://raw.githubusercontent.com/JerryGray/guitar-tone-advisor-writeup/main/screenshots/tone_rec_b.png" width="70%">](https://github.com/JerryGray/guitar-tone-advisor-writeup)
+
+👉 [View Write-up](https://github.com/JerryGray/guitar-tone-advisor-writeup)
 
 ---
 
@@ -91,7 +106,7 @@ A full-stack web application that automates monthly duty rotation scheduling for
 #### Calendar view
 [<img src="https://raw.githubusercontent.com/JerryGray/duty-rotation-scheduler/main/screenshots/calendar_view_web.png" width="70%">](https://github.com/JerryGray/duty-rotation-scheduler)
 
-👉 [View Project](https://github.com/JerryGray/duty-rotation-scheduler)
+👉 [View Project Write-up](https://github.com/JerryGray/duty-rotation-scheduler)
 
 ---
 
